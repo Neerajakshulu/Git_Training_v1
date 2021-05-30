@@ -1,1 +1,2 @@
+The Internet is not like a telephone network. The global Internet consists of tens of thousands of interconnected networks run by service providers, individual companies, universities and  governments. In most countries, a telephone network is run by a single company for several years at a time. Open standards are what enable this network of Internet networks to communicate. And they’re what make it possible for anyone to create content, offer services, and sell products without
 This is Sample File1
