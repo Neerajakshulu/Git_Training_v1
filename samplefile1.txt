@@ -1,2 +1,1 @@
-This is Sample Filegit1
-git revert on fiel1
+This is Sample File1
